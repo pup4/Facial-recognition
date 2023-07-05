@@ -1,0 +1,16 @@
+.body{
+    background-color: darkturquoise;
+    color: rgb(16, 8, 8);
+}
+
+.name_of_objects{
+    color: rgb(14, 104, 104);
+    font-family: cursive;
+    font-size: large;
+}
+
+#heading{
+    background-color: rgb(105, 85, 221);
+    font-size: 53px;
+    font-family: fantasy;
+}
